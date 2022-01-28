@@ -1,6 +1,8 @@
 # pneumonia-xray
 
-Classification of Pneumonia from chest X-ray images using deep learning models, CNN architecture, and transfer learning.
+Classification of Pneumonia from chest X-ray images using deep learning models, CNN architecture, and transfer learning. 
+
+Data source: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 All famous pre-trained CNN architectures are used to train on X-ray images. Stacking multiple architectures are tried in order to improve accuracy.
 
